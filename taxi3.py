@@ -64,7 +64,6 @@ class Taximetro:
             continuar = input("¿Desea iniciar una nueva carrera? (sí/no): ").strip().lower()
             if continuar == 'sí' or continuar == 'si':
                 self.resetear_valores()
-                self.configurar_tarifas()
             elif continuar == 'no':
                 break
             else:
