@@ -58,4 +58,5 @@ class Taximetro:
 
 if __name__ == "__main__":
     taximetro = Taximetro()
-    taximetro.iniciar_carrera()
+    taximetro.iniciar_carrera() 
+    #prueba
