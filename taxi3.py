@@ -36,11 +36,6 @@ class Taximetro:
 
             print()
 
-            cambiar_tarifa = input("¿Desea cambiar la tarifa antes de comenzar? (sí/no): ").strip().lower()
-            if cambiar_tarifa == 'sí' or cambiar_tarifa == 'si':
-                self.configurar_tarifas()
-
-
             self._cambiar_estado(time.time(), False)
 
             while True:
