@@ -1,4 +1,3 @@
-import hashlib
 import time
 import logging
 import tkinter as tk
@@ -30,7 +29,7 @@ class Taximetro:
             self.movimiento = False
             self._update_precio()
             logging.info(f"Carrera finalizada, su precio total es: {self.precio_total:.2f} euros")
-            with open(self.history_file, 'a') as f:
+            with open(self.historial_file, 'a') as f:
                 f.write(f"Carrera finalizada, su precio total es: {self.precio_total:.2f} euros\n")
             print(f"Carrera finalizada, su precio total es: {self.precio_total:.2f} euros")
         else:
@@ -87,7 +86,7 @@ class Password:
     def register(self, nombre_usuario, password):
         if nombre_usuario in self.datos_usuario:
             raise ValueError("Usuario ya registrado.")
-        self.user_data[nombre_usuario] = self.hash_password(password)
+        self.datos_usuario[nombre_usuario] = self.hash_password(password)
         self.save_datos_usuario()
 
     def authenticate(self, nombre_usuario, password):
@@ -99,7 +98,7 @@ class TarifaTaxi:
     def __init__(self, master, auth):
         self.master = master
         self.auth = auth
-        self.taximetro = taximetro()
+        self.taximetro = Taximetro()
 
         self.master.title("Taximetro")
         self.master.geometry("300x200")
@@ -159,18 +158,20 @@ class TarifaTaxi:
         self.resume_button = tk.Button(self.taxi_frame, text="Continuar", command=self.resume_trip)
         self.resume_button.pack(pady=10)
 
-    def start_trip(self):
+    def comenzar_carrera(self):
         self.taximetro.start_trip()
 
-    def stop_trip(self):
+    def finalizar_carrera(self):
         self.taximetro.stop_trip()
 
-    def pause_trip(self):
+    def pausar_carrera(self):
         self.taximetro.pause_trip()
 
-    def resume_trip(self):
+    def reaudar_carrera(self):
         self.taximetro.resume_trip()
 
 if __name__ == "__main__":
-    taximetro = Taximetro()
-    taximetro.comenzar_carrera()
+    root = tk.Tk()
+    auth = Password()
+    app = TarifaTaxi(root, auth)
+    root.mainloop()
