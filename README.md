@@ -1,7 +1,8 @@
 # Proyecto1_grupo3
-<p align="center">
-(![Logotipo App Degradado Azul Verde](https://github.com/AI-School-F5-P3/Grupo3_taxi/assets/150898218/63b938ce-ced5-49dd-9fb3-98c3e01184b0)
-</p>
+<div style="text-align: center;">
+  <img src="https://github.com/AI-School-F5-P3/Grupo3_taxi/assets/150898218/63b938ce-ced5-49dd-9fb3-98c3e01184b0" alt="Logotipo App Degradado Azul Verde">
+</div>
+
 
 # Bienvenido a nuestro primer proyecto! Un taxímetro inteligente.🚕
 Este taxímetro inteligente te permitirá cambiar el precio por segundo de tu viaje, tanto si estas parado como en movimiento. Además, tiene la funcionalidad de establecer una contraseña para iniciar el uso del taxímetro y comenzar la carrera del cliente. Con esto cuentas con una seguridad extra en tu viaje!.
