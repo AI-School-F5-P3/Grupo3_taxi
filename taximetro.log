@@ -1,0 +1,40 @@
+2024-06-17 13:28:32,976 - INFO - Taxímetro iniciado con tarifas por defecto.
+2024-06-17 13:28:59,647 - INFO - Tarifas actualizadas a parada: 0.04, movimiento: 0.09
+2024-06-17 13:28:59,647 - INFO - Nueva carrera iniciada.
+2024-06-17 13:28:59,648 - INFO - Cambio de estado a parado.
+2024-06-17 13:29:11,413 - INFO - Carrera finalizada. Total a cobrar: 1.54 euros
+2024-06-17 13:34:59,502 - WARNING - Instrucción no válida para continuar: si
+2024-06-17 13:34:59,503 - INFO - Nueva carrera iniciada.
+2024-06-17 13:34:59,503 - INFO - Cambio de estado a parado.
+2024-06-17 13:35:11,781 - INFO - Carrera finalizada. Total a cobrar: 16.42 euros
+2024-06-17 13:35:21,259 - WARNING - Instrucción no válida para continuar: si
+2024-06-17 13:35:21,260 - INFO - Nueva carrera iniciada.
+2024-06-17 13:35:21,260 - INFO - Cambio de estado a parado.
+2024-06-17 13:35:23,398 - INFO - Carrera finalizada. Total a cobrar: 17.38 euros
+2024-06-17 13:35:31,317 - WARNING - Instrucción no válida para continuar: si
+2024-06-17 13:35:31,317 - INFO - Nueva carrera iniciada.
+2024-06-17 13:35:31,318 - INFO - Cambio de estado a parado.
+2024-06-17 13:35:35,529 - INFO - Carrera finalizada. Total a cobrar: 17.95 euros
+2024-06-17 13:36:28,655 - WARNING - Instrucción no válida para continuar: & c:/users/vitta/appdata/local/microsoft/windowsapps/python3.12.exe "c:/users/vitta/desktop/f5 p3 ia school/trabajos/taxímetro/grupo3_taxi/taximetro5.py"
+2024-06-17 13:36:28,655 - INFO - Nueva carrera iniciada.
+2024-06-17 13:36:28,655 - INFO - Cambio de estado a parado.
+2024-06-17 13:36:37,956 - INFO - Carrera finalizada. Total a cobrar: 20.61 euros
+2024-06-17 13:36:41,604 - INFO - Valores reseteados para nueva carrera.
+2024-06-17 13:37:06,628 - INFO - Se mantienen las tarifas por defecto.
+2024-06-17 13:37:06,628 - INFO - Nueva carrera iniciada.
+2024-06-17 13:37:06,629 - INFO - Cambio de estado a parado.
+2024-06-17 13:37:09,636 - INFO - Carrera finalizada. Total a cobrar: 1.12 euros
+2024-06-17 13:37:17,270 - INFO - Valores reseteados para nueva carrera.
+2024-06-17 13:37:28,673 - INFO - Taxímetro iniciado con tarifas por defecto.
+2024-06-17 13:37:31,949 - INFO - Se mantienen las tarifas por defecto.
+2024-06-17 13:37:31,949 - INFO - Nueva carrera iniciada.
+2024-06-17 13:37:31,950 - INFO - Cambio de estado a parado.
+2024-06-17 13:37:33,947 - INFO - Carrera finalizada. Total a cobrar: 0.11 euros
+2024-06-17 13:37:42,333 - INFO - Taxímetro iniciado con tarifas por defecto.
+2024-06-17 13:37:48,993 - WARNING - Instrucción no válida para continuar: & c:/users/vitta/appdata/local/microsoft/windowsapps/python3.12.exe "c:/users/vitta/desktop/f5 p3 ia school/trabajos/taxímetro/grupo3_taxi/taximetro5.py"
+2024-06-17 13:37:48,993 - INFO - Nueva carrera iniciada.
+2024-06-17 13:37:48,995 - INFO - Cambio de estado a parado.
+2024-06-17 13:37:52,752 - INFO - Carrera finalizada. Total a cobrar: 0.52 euros
+2024-06-17 13:37:54,049 - WARNING - Instrucción no válida para continuar: s
+2024-06-17 13:37:54,049 - INFO - Nueva carrera iniciada.
+2024-06-17 13:37:54,050 - INFO - Cambio de estado a parado.
