@@ -59,3 +59,10 @@
 2024-06-17 14:46:55,222 - INFO - Carrera finalizada. Total a cobrar: 7.20 euros
 2024-06-17 14:46:55,224 - INFO - Taxímetro iniciado con tarifas por defecto.
 2024-06-17 14:46:55,225 - INFO - Valores reseteados para nueva carrera.
+2024-06-17 16:47:23,112 - INFO - Taxímetro iniciado con tarifas por defecto y contraseña establecida.
+2024-06-17 16:47:27,248 - INFO - Contraseña correcta. Acceso concedido.
+2024-06-17 16:47:37,871 - INFO - Taxi en movimiento.
+2024-06-17 16:47:41,063 - INFO - Taxi en parado.
+2024-06-17 16:47:43,764 - INFO - Taxi en movimiento.
+2024-06-17 16:47:44,912 - INFO - Taxi en parado.
+2024-06-17 16:47:45,996 - INFO - Taxi en parado.
