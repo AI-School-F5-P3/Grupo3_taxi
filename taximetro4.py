@@ -1,3 +1,4 @@
+# Pregunta al principio si queremos cambiar la tarifa para cumplir con 4º requisito del nivel medio
 import time
 
 class Taximetro:
