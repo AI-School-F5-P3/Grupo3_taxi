@@ -1,0 +1,14 @@
+2024-06-17 12:26:38,398 - INFO - Taxímetro iniciado con tarifas por defecto.
+2024-06-17 12:26:41,778 - INFO - Se mantienen las tarifas por defecto.
+2024-06-17 12:26:41,778 - INFO - Nueva carrera iniciada.
+2024-06-17 12:26:41,778 - INFO - Cambio de estado a parado.
+2024-06-17 12:26:44,478 - INFO - Cambio de estado a movimiento.
+2024-06-17 12:26:45,991 - INFO - Cambio de estado a parado.
+2024-06-17 12:26:47,129 - INFO - Carrera finalizada. Total a cobrar: 0.22 euros
+2024-06-17 12:26:49,323 - INFO - Valores reseteados para nueva carrera.
+2024-06-17 12:26:51,309 - INFO - Se mantienen las tarifas por defecto.
+2024-06-17 12:26:51,310 - INFO - Nueva carrera iniciada.
+2024-06-17 12:26:51,310 - INFO - Cambio de estado a parado.
+2024-06-17 12:26:53,396 - INFO - Cambio de estado a movimiento.
+2024-06-17 12:26:55,442 - INFO - Cambio de estado a parado.
+2024-06-17 12:26:56,112 - INFO - Carrera finalizada. Total a cobrar: 0.20 euros
