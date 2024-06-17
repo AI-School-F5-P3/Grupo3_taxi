@@ -12,4 +12,4 @@ Este taxímetro inteligente te permitirá cambiar el precio por segundo de tu vi
 2. **Cambio del precio por segundo (en movimiento):**
     - Puedes ajustar el precio de cuando estés en carrera llevando a su cliente según usted considere.
 3. **Seguridad asegurada:**
-    - Para comenzar a utilizar el taxímetro y empezar la carrera del cliente, debrás iniciar sesión y emepzar carrera!!
+    - Para comenzar a utilizar el taxímetro y empezar la carrera del cliente, debrás iniciar sesión y empezar carrera!!
