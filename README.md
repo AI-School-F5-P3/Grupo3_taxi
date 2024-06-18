@@ -1,4 +1,4 @@
-## Proyecto1_grupo3
+
 <div style="text-align: center;">
   <img src="https://github.com/AI-School-F5-P3/Grupo3_taxi/assets/150898218/63b938ce-ced5-49dd-9fb3-98c3e01184b0" alt="Logotipo App Degradado Azul Verde">
 </div>
