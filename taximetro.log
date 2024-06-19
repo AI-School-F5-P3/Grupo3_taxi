@@ -1,0 +1,14 @@
+2024-06-19 14:19:40,390 - INFO - Tabla 'registros' creada correctamente.
+2024-06-19 14:19:40,391 - INFO - Taxímetro iniciado con tarifas por defecto y contraseña establecida.
+2024-06-19 14:19:43,411 - INFO - Contraseña correcta. Acceso concedido.
+2024-06-19 14:19:43,413 - ERROR - El archivo de imagen no se encuentra. Asegúrate de que 'taximide_logo.png' está en el mismo directorio que tu script de Python.
+2024-06-19 14:22:06,514 - INFO - Tabla 'registros' creada correctamente.
+2024-06-19 14:22:06,515 - INFO - Taxímetro iniciado con tarifas por defecto y contraseña establecida.
+2024-06-19 14:22:11,529 - INFO - Contraseña correcta. Acceso concedido.
+2024-06-19 14:22:30,785 - WARNING - El taxi ya está en parado.
+2024-06-19 14:22:32,980 - WARNING - El taxi ya está en parado.
+2024-06-19 14:22:43,302 - INFO - Taxi en movimiento.
+2024-06-19 14:23:11,496 - INFO - Tarifas actualizadas en parado: 1.00, y en movimiento: 1.00
+2024-06-19 14:23:27,908 - INFO - Tarifas actualizadas en parado: 1.00, y en movimiento: 1.00
+2024-06-19 14:23:40,345 - INFO - Registro insertado correctamente en la tabla 'registros'.
+2024-06-19 14:23:40,346 - INFO - Registro de carrera finalizado y guardado en la base de datos.
